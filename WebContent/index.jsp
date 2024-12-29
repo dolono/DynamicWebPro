@@ -9,5 +9,6 @@
 <body>
 	DynamicWeb 메인화면입니다.
 	test commit
+	add commit
 </body>
 </html>
